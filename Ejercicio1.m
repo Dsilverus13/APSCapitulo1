@@ -1,3 +1,5 @@
+clear all
+clc
 a=1;
 b=9;
 c=1;
